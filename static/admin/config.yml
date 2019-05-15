@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: simonccarter/gatsby-start-blog
+  repo: simonccarter/gatsby-starter-blog
 
 media_folder: static/assets
 public_folder: assets
